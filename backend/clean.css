@@ -1,0 +1,15 @@
+.apexcharts-tooltip,
+.apexcharts-tooltip,
+.apexcharts-xaxistooltip,
+.apexcharts-yaxistooltip {
+    display: none;
+}
+
+.apexcharts-xcrosshairs {
+    opacity: 1;
+    display: none;
+}
+
+.html {
+    text-align: center;
+}
