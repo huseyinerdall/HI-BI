@@ -428,7 +428,3 @@ def getHTML():
         css = APP_ROOT + '/clean.css'
         time.sleep(2)
         pdfkit.from_file(APP_ROOT+'/reports/report.html',APP_ROOT+'/reports/report.pdf',options=options,css=css)
-
-
-
-    return 'OK'

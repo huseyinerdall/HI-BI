@@ -1,1 +1,1 @@
-{"db": {"type": "postgresql", "port": "5432", "user": "hus", "password": "1058", "db_name": "sss", "address": "localhost"}}
+{"db": {"type": "postgresql", "port": "5432", "user": "postgres", "password": "1058", "db_name": "test", "address": "localhost"}}
